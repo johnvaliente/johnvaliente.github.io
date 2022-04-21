@@ -20,6 +20,7 @@ module.exports = {
       blue: colors.sky,
       yellow: colors.amber,
       coolGray: colors.coolGray,
+      stone: colors.stone,
     }
   }
 }
